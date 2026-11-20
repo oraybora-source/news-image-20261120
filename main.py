@@ -1,4 +1,4 @@
-# news-image-20261120 final entry v2 (Python 3.13, standard library only).
+# news-image-20261120 final entry v3 (Python 3.13, standard library only).
 #
 # The image is entry.png in this repository, composed by
 # compose_v2.py from illustration assets in assets/ plus text
